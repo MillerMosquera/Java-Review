@@ -1,1 +1,1 @@
-package OOP.Ejercicios.Basicos;public interface ICalculable {}
+package OOP.Ejercicios.Basicos;public interface ICalculable {    public double calcularSalarioAnual();    public double calcularSalario();}
