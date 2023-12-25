@@ -1,0 +1,1 @@
+package OOP.Ejercicios.Basicos;public interface ICalculable {}
