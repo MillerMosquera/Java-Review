@@ -1,0 +1,1 @@
+package OOP.Ejercicios.Intermedios;public interface IPrestable {    public void prestar() throws PrestamoException;    public void devolver();}
