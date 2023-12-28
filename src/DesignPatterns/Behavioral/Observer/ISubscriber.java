@@ -1,1 +1,1 @@
-package DesignPatterns.Behavioral.Oberver;public interface ISubscriber {    public void update(String context);}
+package DesignPatterns.Behavioral.Observer;public interface ISubscriber {    public void update(String context);}
