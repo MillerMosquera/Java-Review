@@ -1,0 +1,1 @@
+package DesignPatterns.Structural.Decorator;public class DecoratorDemo {    public static void main(String[] args) {        ICoffee coffee = new BasicCoffee();        coffee = new SugarDecorator(coffee);        coffee = new MilkDecorator(coffee);        System.out.println(coffee.GetDescription());        System.out.println(coffee.GetCost());    }}
