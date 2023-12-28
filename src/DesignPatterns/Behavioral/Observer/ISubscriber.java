@@ -1,0 +1,1 @@
+package DesignPatterns.Behavioral.Oberver;public interface ISubscriber {    public void update(String context);}
