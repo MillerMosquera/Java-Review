@@ -1,1 +1,0 @@
-package OOP.Ejercicios.Intermedios;public class PrestamoException extends Exception {    public PrestamoException(String mensaje){        super(mensaje);    }}
