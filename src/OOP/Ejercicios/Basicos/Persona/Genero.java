@@ -1,4 +1,4 @@
-package OOP.Ejercicios.Basicos.CalcularBMI;
+package OOP.Ejercicios.Basicos.Persona;
 
 public enum Genero {
     MASCULINO, FEMENINO

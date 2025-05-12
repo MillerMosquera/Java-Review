@@ -1,1 +1,6 @@
-package OOP.Polimorfismo;public interface ISonido {    public void hacerSonido();}
+package OOP.Polimorfismo;
+
+public interface ISonido {
+
+    public void hacerSonido();
+}

@@ -1,1 +1,5 @@
-package DependencyInjection;public class Room {    //Logic}
+package DependencyInjection;
+
+public class Room {
+    //Logic
+}

@@ -1,1 +1,13 @@
-¿Que son los stream?Combinan las mejores ideas del iterador y la programación funcional para implementar flujos de datosCaracterísticasCrea flujos de datos continuosLos operadores reducen notablemente las tareas de transformacionesTransforma y compone flujos con los operadores map,filter,concat, distinct(), flatmap,sorted,foreach,reduce.etcPueden ser creados desde listas,arreglos,rangosSon inmutablesConcurrencia hecho fácil
+¿Que son los stream?
+
+Combinan las mejores ideas del iterador y la programación funcional para implementar flujos de datos
+
+Características
+
+Crea flujos de datos continuos
+Los operadores reducen notablemente las tareas de transformaciones
+Transforma y compone flujos con los operadores map,filter,concat, distinct(), flatmap,sorted,foreach,reduce.etc
+Pueden ser creados desde listas,arreglos,rangos
+Son inmutables
+Concurrencia hecho fácil
+

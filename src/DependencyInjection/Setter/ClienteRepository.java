@@ -1,1 +1,5 @@
-package DependencyInjection.Setter;public class ClienteRepository {    //Logic}
+package DependencyInjection.Setter;
+
+public class ClienteRepository {
+    //Logic
+}
