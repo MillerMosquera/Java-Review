@@ -12,6 +12,7 @@ public class Main {
         Sistema.buscarContacto("Miller");
         Sistema.eliminarContacto("Sair");
         Sistema.mostrarContacto();
+        Sistema.eliminarContacto("Sair");
 
 
     }
